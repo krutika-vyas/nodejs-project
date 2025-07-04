@@ -1,17 +1,17 @@
 // note - if in package.json file have type:"common js"then we can use require and if it have type:"module"the we will import file using import not require.default type is common js.
 
-const {addToCart, changeqty, name} = require("./cartModule");
-console.log(addToCart());
-console.log(changeqty());
-console.log(name);
+// const {addToCart, changeqty, name} = require("./cartModule");
+// console.log(addToCart());
+// console.log(changeqty());
+// console.log(name);
 
-console.log("krutika vyas");
-let a = 10;
-const b = 40;
-var c = 50;
-a = 50;  
-console.log(a+b+c); 
-const app = require('./app')
+// console.log("krutika vyas");
+// let a = 10;
+// const b = 40;
+// var c = 50;
+// a = 50;  
+// console.log(a+b+c); 
+// const app = require('./app')
 // console.log(app.x);
 
 // there are 3 types of modules in node js-

@@ -5,3 +5,4 @@ module.exports={
         return (this.x);
     }
 }
+console.log("git push test successfull!");
